@@ -1,0 +1,20 @@
+{
+  "name": "mongoa",
+  "version": "1.0.0",
+  "description": "Simple REST API for MongoDB ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "rest",
+    "read-only"
+  ],
+  "author": "Marcus Schiesser",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-mongo": "^0.5.0"
+  }
+}
