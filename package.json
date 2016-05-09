@@ -1,7 +1,7 @@
 {
   "name": "mongoa",
   "version": "1.0.0",
-  "description": "Simple REST API for MongoDB ",
+  "description": "Simple Query API for MongoDB ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

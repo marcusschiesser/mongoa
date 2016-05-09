@@ -1,0 +1,7 @@
+{
+    "uri": "mongodb://jasper:j9om7OjyDa@ds021711.mlab.com:21711/aqi",
+    "max": 100,
+    "min": 1,
+    "timeout": 30000,
+    "log": false
+}
