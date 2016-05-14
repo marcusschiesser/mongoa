@@ -19,7 +19,7 @@ where the property *name* of the sub-document *city* is set to *Taipei*.
 
 ### Configuration
 
-just move the `config.json.example` to `config.json` and modify its [connection string](https://docs.mongodb.com/v3.2/reference/connection-string/) in the property *uri*.
+Either directly edit the `config.js` and modify its [connection string](https://docs.mongodb.com/v3.2/reference/connection-string/) in the property *uri* or you set the env variable `MONGOLAB_URI` to the value of the connection string.
 
 ### Todos
 

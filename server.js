@@ -2,7 +2,7 @@
 
 var koa = require('koa');
 var mongo = require('koa-mongo');
-var config = require('./config.json');
+var config = require('./config.js');
 
 var app = koa();
 
